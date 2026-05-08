@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm WhyJay (YJ), a student currently pursuing a Bachelor of Science in Computer Science major in Network and Information Security in DLSU - Manila, in the Philippines.
+
+I create programs and applications for whatever I think of. I'm currently learning Java, JS, Python, and C#.
+
+My main tech stack (for now) is C, Java, Python, HTML/CSS. Currently working on schedio
+
+How to reach me: 
+- Email: yj17cayabyab@yahoo.com | yj17cayabyab@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yj-navarrosa/
 <!--
 **whyjay-0/whyjay-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
