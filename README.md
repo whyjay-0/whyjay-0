@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycnlsbW5sN3gwZ2xjbGVqY3F1dmdnc3oyYThxMTllM25rY3h1YjByaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/grvLpQetU7o0fawogA/200.gif" width="39" height="25" />
 
 I'm WhyJay (YJ), a student currently pursuing a Bachelor of Science in Computer Science major in Network and Information Security in DLSU - Manila, in the Philippines.
 
